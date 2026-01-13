@@ -119,7 +119,7 @@ If you use this code or its results, please cite:
 Kevin Shepheard, *Breaking the Dipole: Harmonic Leakage and Inhomogeneous Noise
 in Type Ia Supernova Anisotropy Claims*, Zenodo, YEAR.
 
-10.5281/zenodo.18228684
+10.5281/zenodo.18228938
 
 
 # License
