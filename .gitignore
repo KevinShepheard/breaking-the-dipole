@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.npy
+out/
+data/
+locker/
+.DS_Store
